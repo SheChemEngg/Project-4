@@ -1,0 +1,743 @@
+job_state,job_region,Sector,Company_Age,Avg_Company_Revenue,Avg_Company_Size,Job_Title,Avg_Salary,Min_Salary,Max_Salary,Usr_Rating,Python_y_n,R_y_n,Spark_y_n,AWS_y_n,Excel_y_n
+NM,Southwest,Aerospace & Defense,47,75000000.0,750,Data Scientist,72.0,53,91,3.8,1,0,0,0,1
+MD,Northeast,Health Care,36,3000000000.0,10000,Data Scientist,87.5,63,112,3.4,1,0,0,0,0
+FL,Southeast,Business Services,10,150000000.0,750,Data Scientist,85.0,80,90,4.8,1,0,1,0,1
+WA,West,"Oil, Gas, Energy & Utilities",55,750000000.0,3000,Data Scientist,76.5,56,97,3.8,1,0,0,0,0
+NY,Northeast,Business Services,22,150000000.0,125,Data Scientist,114.5,86,143,2.9,1,0,0,0,1
+TX,Southwest,Real Estate,20,1500000000.0,350,Data Scientist,95.0,71,119,3.4,1,0,0,1,1
+MD,Northeast,Finance,12,1500000000.0,750,Data Scientist,73.5,54,93,4.1,0,0,0,0,1
+CA,West,Business Services,15,37500000.0,350,Data Scientist,114.0,86,142,3.8,1,0,1,1,1
+NY,Northeast,Health Care,6,750000000.0,10000,Research Scientist,61.0,38,84,3.3,0,0,0,0,0
+NY,Northeast,Information Technology,11,150000000.0,125,Data Scientist,140.0,120,160,4.6,1,0,1,0,0
+CA,West,Retail,9,1500000000.0,750,Data Scientist,163.5,126,201,3.5,1,0,0,0,0
+VA,Southeast,Business Services,52,1500000000.0,7500,Data Scientist,85.0,64,106,4.1,0,0,0,0,0
+TX,Southwest,Retail,58,15000000000.0,10000,Data Scientist,139.0,106,172,3.2,0,0,0,0,0
+WA,West,Business Services,8,1500000000.0,350,Data Analyst,65.5,46,85,4.1,1,0,1,1,1
+MA,Northeast,Biotech & Pharmaceuticals,239,15000000000.0,10000,Data Scientist,113.5,83,144,3.7,1,0,1,0,0
+NJ,Northeast,Media,25,150000000.0,3000,Data Engineer,146.0,102,190,3.6,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,9,1500000.0,125,Research Scientist,102.0,67,137,3.9,0,0,0,0,1
+CA,West,Information Technology,9,1500000000.0,350,Data Scientist,153.5,118,189,4.3,1,0,1,1,1
+CA,West,Information Technology,10,150000000.0,125,Data Scientist,142.5,110,175,4.2,0,0,0,0,0
+CO,West,Insurance,105,750000000.0,750,Data Scientist,87.5,64,111,4.0,1,0,0,0,1
+WA,West,Information Technology,8,1500000000.0,350,Data Scientist,105.5,81,130,3.2,1,0,1,0,0
+TX,Southwest,Insurance,7,1500000000.0,350,Data Scientist,96.0,73,119,3.9,0,0,0,0,1
+IL,Midwest,Transportation & Logistics,25,1500000000.0,750,Data Scientist,112.5,86,139,3.8,1,0,0,1,1
+KY,Southeast,Transportation & Logistics,85,15000000.0,125,Data Scientist,84.0,63,105,4.3,1,0,0,0,1
+VA,Southeast,Information Technology,8,150000000.0,750,Data Scientist,143.0,109,177,4.0,1,0,0,1,0
+MA,Northeast,Biotech & Pharmaceuticals,171,15000000000.0,10000,Data Scientist,86.5,63,110,4.0,1,0,0,1,1
+OR,West,Finance,68,150000000.0,3000,Data Scientist,99.5,75,124,3.5,1,0,1,1,1
+MA,Northeast,Insurance,168,7500000000.0,7500,Data Analyst,47.5,34,61,3.7,0,0,0,0,1
+CT,Northeast,Biotech & Pharmaceuticals,171,15000000000.0,10000,Data Scientist,84.0,63,105,4.0,0,0,0,1,1
+FL,Southeast,Business Services,10,150000000.0,750,Data Scientist,85.0,80,90,4.8,1,0,1,0,1
+WA,West,"Oil, Gas, Energy & Utilities",55,750000000.0,3000,Data Scientist,76.5,56,97,3.8,1,0,0,0,0
+MI,Midwest,Real Estate,23,750000000.0,3000,Data Scientist,96.0,72,120,3.6,1,0,0,0,0
+MA,Northeast,Biotech & Pharmaceuticals,24,15000000000.0,10000,Data Scientist,114.5,86,143,3.8,1,0,0,0,0
+CA,West,Telecommunications,24,3000000000.0,7500,Data Scientist,121.0,93,149,3.8,1,0,1,0,1
+MA,Northeast,Biotech & Pharmaceuticals,46,1500000000.0,350,Data Scientist,112.5,85,140,4.7,1,0,0,0,1
+CA,West,Information Technology,12,1500000000.0,350,Data Analyst,106.0,77,135,4.2,1,0,0,0,1
+CA,West,Information Technology,51,1500000000.0,3000,Data Scientist,107.0,82,132,3.5,1,0,1,1,0
+MA,Northeast,Aerospace & Defense,10,150000000.0,350,Data Scientist,110.0,83,137,4.7,1,0,1,0,1
+CA,West,Biotech & Pharmaceuticals,150,1500000000.0,7500,Data Scientist,147.5,115,180,3.5,1,0,0,0,1
+NY,Northeast,Insurance,35,150000000.0,350,Data Engineer,106.0,74,138,3.5,1,0,0,0,1
+CA,West,Information Technology,12,75000000.0,350,Data Analyst,88.0,64,112,4.2,1,0,0,1,1
+MA,Northeast,Health Care,0,750000.0,25,Data Engineer,98.5,68,129,3.6,0,0,0,0,1
+CA,West,Information Technology,10,150000000.0,125,Data Scientist,142.5,110,175,4.2,0,0,0,0,0
+NJ,Northeast,Manufacturing,5,3000000000.0,7500,Research Scientist,82.5,52,113,3.4,0,0,0,1,0
+IL,Midwest,Real Estate,27,3000000000.0,3000,Data Scientist,130.0,110,150,4.3,1,0,1,0,1
+DC,Northeast,Information Technology,0,150000000.0,0,Data Scientist,155.0,150,160,5.0,0,0,0,1,1
+WA,West,Information Technology,62,15000000000.0,10000,Data Scientist,184.5,158,211,3.7,1,0,0,0,1
+CO,West,Information Technology,34,3000000000.0,7500,Data Analyst,29.5,20,39,3.1,0,0,0,0,1
+OH,Midwest,Aerospace & Defense,21,150000000.0,750,Research Scientist,86.5,56,117,4.7,0,0,0,0,0
+IL,Midwest,Manufacturing,95,15000000000.0,10000,Data Scientist,81.0,63,99,3.7,0,0,0,0,0
+FL,Southeast,Business Services,36,1500000000.0,750,Data Scientist,91.0,68,114,3.8,1,0,0,0,1
+MA,Northeast,Insurance,108,15000000000.0,10000,Data Scientist,114.5,86,143,3.3,1,0,0,0,0
+AL,Southeast,Aerospace & Defense,18,150000000.0,3000,Data Scientist,68.0,41,95,4.6,1,0,0,0,1
+NY,Northeast,Insurance,157,15000000000.0,10000,Data Scientist,115.0,86,144,3.7,1,0,0,0,1
+CA,West,Aerospace & Defense,81,15000000000.0,10000,Data Scientist,109.5,80,139,3.7,0,0,0,0,1
+NM,Southwest,Biotech & Pharmaceuticals,150,1500000000.0,7500,Data Scientist,75.5,56,95,3.5,1,0,0,0,1
+CA,West,Information Technology,8,1500000000.0,750,Data Scientist,154.5,120,189,4.1,1,0,1,0,1
+MO,Midwest,Information Technology,4,150000000.0,125,Data Scientist,143.5,111,176,4.7,1,0,1,0,0
+MD,Northeast,Finance,12,1500000000.0,750,Data Scientist,73.5,54,93,4.1,0,0,0,0,1
+TX,Southwest,Real Estate,20,1500000000.0,350,Data Scientist,95.0,71,119,3.4,1,0,0,1,1
+OH,Midwest,Mining & Metals,135,1500000000.0,350,Data Scientist,107.0,82,132,4.4,1,0,0,1,0
+NY,Northeast,Business Services,9,15000000.0,350,Data Scientist,115.0,84,146,4.3,1,0,1,1,0
+CA,West,Finance,14,75000000.0,750,Data Scientist,139.5,107,172,3.8,0,0,0,0,0
+WA,West,"Oil, Gas, Energy & Utilities",55,750000000.0,3000,Data Scientist,67.0,49,85,3.8,0,0,0,0,0
+PA,Northeast,Retail,72,7500000000.0,10000,Data Scientist,85.0,61,109,3.8,1,0,0,0,0
+MA,Northeast,Biotech & Pharmaceuticals,14,1500000.0,125,Data Scientist,118.0,88,148,2.8,1,0,0,0,1
+GA,Southeast,Information Technology,17,37500000.0,125,Data Scientist,79.5,60,99,4.7,1,0,0,0,1
+MA,Northeast,Business Services,21,150000000.0,350,Data Scientist,56.5,41,72,3.1,1,0,0,0,0
+PA,Northeast,Business Services,0,7500000.0,25,Data Scientist,128.5,96,161,3.2,1,0,1,1,0
+WA,West,Information Technology,81,15000000000.0,10000,Data Scientist,97.5,65,130,4.0,0,0,0,0,0
+IN,Midwest,Information Technology,5,750000.0,25,Research Scientist,66.5,52,81,4.4,1,0,0,0,0
+IL,Midwest,Business Services,93,15000000000.0,10000,Data Scientist,179.5,139,220,3.6,1,0,0,0,1
+MO,Midwest,Business Services,42,75000000.0,750,Research Scientist,76.0,50,102,2.7,0,0,0,0,1
+VA,Southeast,Information Technology,10,150000000.0,750,Data Scientist,112.0,85,139,3.9,1,0,1,0,0
+PA,Northeast,Mining & Metals,160,1500000000.0,3000,Data Scientist,98.0,74,122,3.1,1,0,0,0,0
+WA,West,Information Technology,81,15000000000.0,10000,Data Scientist,128.0,99,157,4.0,0,0,1,1,0
+CA,West,Information Technology,9,1500000000.0,350,Data Scientist,150.5,79,222,4.3,1,0,1,1,1
+MA,Northeast,Biotech & Pharmaceuticals,20,15000000.0,125,Research Scientist,87.5,57,118,1.9,0,0,0,1,0
+VA,Southeast,Aerospace & Defense,3,1500000000.0,3000,Data Scientist,110.0,83,137,3.3,1,0,0,0,1
+CA,West,Information Technology,25,750000000.0,10000,Data Scientist,113.5,86,141,4.4,1,0,0,0,1
+CA,West,Health Care,4,1500000.0,125,Data Scientist,124.0,94,154,3.9,1,0,0,0,0
+PA,Northeast,Business Services,23,37500000.0,350,Data Analyst,56.5,37,76,4.7,0,0,0,0,1
+MD,Northeast,Aerospace & Defense,78,1500000000.0,7500,Data Scientist,130.0,100,160,4.5,1,0,0,0,1
+IL,Midwest,Information Technology,12,15000000.0,125,Data Analyst,77.5,55,100,4.3,0,0,0,0,1
+VA,Southeast,Business Services,18,75000000.0,350,Data Engineer,87.0,60,114,4.0,1,0,0,1,1
+WA,West,Business Services,72,150000000.0,750,Data Analyst,53.5,39,68,4.4,0,0,0,0,1
+TX,Southwest,Retail,58,15000000000.0,10000,Data Scientist,139.0,106,172,3.2,0,0,0,0,0
+CA,West,Business Services,15,37500000.0,350,Data Scientist,114.0,86,142,3.8,1,0,1,1,1
+FL,Southeast,Information Technology,12,150000000.0,750,Data Scientist,85.5,64,107,4.2,1,0,1,0,1
+AL,Southeast,Information Technology,24,37500000.0,125,Research Scientist,48.0,31,65,4.5,0,0,0,0,1
+LA,Southeast,Information Technology,21,150000000.0,125,Data Analyst,48.0,34,62,3.5,0,0,0,0,1
+CA,West,Biotech & Pharmaceuticals,30,150000000.0,350,Research Scientist,174.0,117,231,3.5,0,0,0,0,1
+GA,Southeast,Finance,52,1500000000.0,7500,Data Scientist,85.0,64,106,3.9,1,0,1,0,0
+MD,Northeast,Information Technology,17,15000000.0,125,Research Scientist,106.5,79,134,4.7,0,0,0,0,0
+MD,Northeast,Information Technology,32,150000000.0,3000,Data Scientist,72.5,52,93,4.2,0,0,0,0,1
+MD,Northeast,Information Technology,24,15000000000.0,10000,Research Scientist,85.5,55,116,3.4,0,0,0,0,0
+VA,Southeast,Government,62,1500000000.0,7500,Data Scientist,97.5,72,123,3.2,1,0,0,0,1
+VA,Southeast,Information Technology,10,150000000.0,750,Data Scientist,99.0,74,124,3.9,1,0,0,0,1
+WI,Midwest,Insurance,19,3000000000.0,3000,Data Analyst,56.5,40,73,3.1,0,0,0,0,1
+MD,Northeast,Information Technology,13,750000.0,25,Data Scientist,133.0,102,164,4.1,1,0,0,0,0
+NY,Northeast,Business Services,8,150000000.0,125,Data Scientist,121.0,89,153,3.8,1,0,1,0,0
+NY,Northeast,Business Services,28,1500000000.0,750,Data Scientist,85.5,61,110,4.7,1,0,0,0,0
+TX,Southwest,Education,5,150000000.0,3000,Data Scientist,87.5,65,110,4.3,1,0,0,0,0
+DC,Northeast,Business Services,85,150000000.0,3000,Data Scientist,237.5,200,275,4.2,1,0,0,0,1
+NC,Southeast,Information Technology,23,150000000.0,3000,Data Engineer,95.5,68,123,3.9,1,0,1,0,0
+MI,Midwest,Manufacturing,26,7500000000.0,10000,Data Scientist,104.5,80,129,3.3,1,0,1,1,1
+NJ,Northeast,Information Technology,8,1500000000.0,350,Data Analyst,56.5,41,72,4.7,0,0,0,0,1
+AZ,Southwest,Information Technology,10,37500000.0,350,Data Analyst,55.0,39,71,4.3,0,0,0,0,1
+NE,Midwest,Health Care,43,150000000.0,3000,Research Scientist,61.5,38,85,2.9,0,0,0,0,1
+CA,West,Information Technology,14,150000000.0,350,Data Scientist,157.0,121,193,4.5,0,0,1,1,0
+NJ,Northeast,Information Technology,1,1500000000.0,350,Data Engineer,78.0,54,102,3.4,1,0,0,0,0
+MA,Northeast,Biotech & Pharmaceuticals,239,15000000000.0,10000,Data Scientist,113.5,83,144,3.7,1,0,1,0,0
+NY,Northeast,Information Technology,11,150000000.0,125,Data Scientist,140.0,120,160,4.6,1,0,1,0,0
+CA,West,Information Technology,5,150000000.0,125,Data Scientist,132.5,102,163,3.2,0,0,1,0,1
+CA,West,Information Technology,38,3000000000.0,7500,Data Engineer,108.0,76,140,4.0,1,0,1,0,0
+IN,Midwest,Agriculture & Forestry,83,75000000.0,750,Data Scientist,80.5,60,101,4.6,0,0,0,0,0
+MD,Northeast,Health Care,20,1500000000.0,350,Data Scientist,107.5,82,133,2.8,1,0,0,0,0
+MN,Midwest,Business Services,24,37500000.0,125,Data Engineer,95.0,65,125,4.7,0,0,1,1,0
+CA,West,Health Care,23,150000000.0,3000,Data Scientist,119.5,91,148,3.0,1,0,1,0,0
+NC,Southeast,Business Services,20,1500000000.0,3000,Data Engineer,134.0,95,173,3.2,0,0,1,1,0
+MA,Northeast,Information Technology,21,1500000000.0,350,Data Scientist,100.5,77,124,4.4,1,0,0,0,1
+OH,Midwest,Media,142,750000000.0,3000,Data Scientist,107.5,80,135,3.5,1,0,0,0,0
+DC,Northeast,Information Technology,5,150000000.0,125,Data Engineer,122.0,85,159,4.0,1,0,1,1,0
+IL,Midwest,Real Estate,27,3000000000.0,3000,Data Engineer,92.5,80,105,4.3,1,0,1,0,1
+MD,Northeast,Business Services,34,150000000.0,750,Data Analyst,62.0,43,81,2.3,0,0,0,0,1
+AL,Southeast,Business Services,20,37500000.0,125,Research Scientist,39.5,29,50,4.0,0,0,0,0,0
+CA,West,Manufacturing,54,150000000.0,3000,Data Scientist,107.5,82,133,3.6,0,0,0,0,1
+MO,Midwest,Business Services,3,1500000000.0,750,Data Scientist,40.5,26,55,3.8,1,0,0,1,1
+VA,Southeast,Information Technology,62,15000000000.0,10000,Data Scientist,89.5,61,118,3.7,1,0,1,0,0
+IL,Midwest,Business Services,12,75000000.0,350,Data Scientist,81.0,60,102,4.4,1,0,0,1,1
+VA,Southeast,Information Technology,8,150000000.0,750,Data Scientist,147.0,112,182,4.0,1,0,0,1,0
+TX,Southwest,Finance,62,150000000.0,3000,Data Scientist,85.0,64,106,3.2,1,0,0,0,1
+CA,West,Manufacturing,49,1500000000.0,3000,Research Scientist,81.5,51,112,2.9,0,0,0,0,1
+CA,West,Biotech & Pharmaceuticals,23,750000000.0,3000,Research Scientist,168.0,113,223,3.8,0,0,0,0,1
+CO,West,Aerospace & Defense,13,750000.0,25,Machine Learning Engineer,100.5,72,129,4.3,1,0,1,1,1
+NY,Northeast,Business Services,77,150000000.0,3000,Data Scientist,97.0,71,123,3.4,1,0,1,0,1
+VA,Southeast,Business Services,52,1500000000.0,7500,Data Scientist,85.0,64,106,4.1,0,0,0,0,0
+CA,West,Information Technology,9,1500000000.0,350,Data Scientist,153.5,118,189,4.3,1,0,1,1,1
+FL,Southeast,Information Technology,3,150000000.0,125,Data Engineer,132.5,120,145,5.0,0,0,0,0,0
+IL,Midwest,Information Technology,12,15000000.0,125,Data Engineer,100.0,80,120,4.3,0,0,1,0,1
+CO,West,Travel & Tourism,9,1500000000.0,350,Data Scientist,105.0,80,130,3.7,1,0,0,0,0
+UT,West,Non-Profit,0,15000000000.0,10000,Data Engineer,87.0,59,115,4.2,0,0,0,1,1
+CA,West,Real Estate,7,150000000.0,125,Data Analyst,103.5,71,136,4.3,0,0,0,0,1
+PA,Northeast,Education,36,1500000000.0,750,Research Scientist,124.0,81,167,2.6,1,0,0,0,1
+WA,West,"Oil, Gas, Energy & Utilities",55,750000000.0,3000,Data Scientist,67.0,49,85,3.8,1,0,0,0,0
+DC,Northeast,Information Technology,20,3000000000.0,10000,Data Engineer,87.0,60,114,3.9,0,0,0,0,0
+IL,Midwest,Information Technology,9,1500000000.0,350,Data Scientist,137.5,71,204,4.3,1,0,1,1,1
+OH,Midwest,Business Services,33,150000000.0,350,Data Scientist,100.0,75,125,3.8,1,0,0,0,1
+TN,Southeast,Insurance,75,7500000000.0,7500,Data Engineer,106.5,77,136,3.8,0,0,0,0,1
+WA,West,"Oil, Gas, Energy & Utilities",55,750000000.0,3000,Data Scientist,98.5,74,123,3.8,0,0,0,0,0
+FL,Southeast,Business Services,10,150000000.0,750,Data Analyst,61.0,44,78,4.8,1,0,0,0,1
+IN,Midwest,Business Services,12,150000000.0,125,Data Scientist,106.5,65,148,4.4,1,0,1,1,0
+MA,Northeast,Information Technology,15,150000000.0,125,Data Engineer,84.5,59,110,3.9,1,0,1,0,0
+NJ,Northeast,Manufacturing,174,3000000000.0,3000,Manager,109.5,85,134,3.4,1,0,0,0,1
+MA,Northeast,Insurance,169,15000000000.0,7500,Data Scientist,164.0,124,204,3.6,1,0,1,1,0
+CA,West,Biotech & Pharmaceuticals,44,15000000000.0,10000,Data Scientist,169.0,131,207,3.9,1,0,1,0,1
+CA,West,Telecommunications,24,3000000000.0,7500,Data Scientist,142.0,110,174,3.8,1,0,1,1,1
+MA,Northeast,Biotech & Pharmaceuticals,239,15000000000.0,10000,Research Scientist,76.5,52,101,3.7,0,0,0,0,1
+MD,Northeast,Insurance,39,750000000.0,750,Data Scientist,107.0,81,133,3.8,1,0,0,0,1
+CA,West,Information Technology,50,15000000000.0,10000,Data Scientist,171.5,132,211,3.5,1,0,0,1,0
+TX,Southwest,Insurance,7,1500000000.0,350,Data Scientist,96.0,73,119,3.9,0,0,0,0,1
+CA,West,Information Technology,10,150000000.0,125,Data Scientist,142.5,110,175,4.2,0,0,0,0,0
+UT,West,Non-Profit,0,15000000000.0,10000,Data Engineer,107.0,74,140,4.2,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,10,1500000000.0,3000,Research Scientist,145.0,100,190,3.5,1,0,0,0,1
+VA,Southeast,Education,27,37500000.0,350,Data Analyst,61.5,43,80,2.9,1,0,0,0,1
+PA,Northeast,Health Care,3,3000000000.0,7500,Research Scientist,20.5,34,48,3.6,0,0,0,0,0
+WI,Midwest,Finance,69,75000000.0,125,Data Scientist,120.0,91,149,2.7,1,0,0,0,0
+MA,Northeast,Biotech & Pharmaceuticals,7,150000000.0,350,Research Scientist,62.0,42,82,4.4,0,0,0,0,0
+CA,West,Information Technology,38,3000000000.0,7500,Data Scientist,150.5,116,185,4.0,1,0,1,0,0
+MI,Midwest,Business Services,53,1500000000.0,350,Manager,87.5,59,116,4.3,0,0,0,0,1
+FL,Southeast,Business Services,14,37500000.0,125,Data Engineer,71.5,48,95,4.2,1,0,1,1,1
+CA,West,Retail,14,150000000.0,125,Data Analyst,51.5,31,72,3.6,0,0,0,0,1
+CA,West,Biotech & Pharmaceuticals,239,15000000000.0,10000,Research Scientist,151.5,105,198,3.7,0,0,0,0,1
+NJ,Northeast,Information Technology,6,1500000000.0,350,Data Analyst,77.5,55,100,2.8,1,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,239,15000000000.0,10000,Research Scientist,140.0,98,182,3.7,0,0,0,0,1
+NJ,Northeast,Insurance,38,15000000.0,3000,Data Scientist,98.5,73,124,3.3,0,0,0,0,1
+CA,West,Information Technology,3,7500000.0,125,Data Scientist,225.0,200,250,0.0,1,0,0,1,1
+DE,Northeast,Health Care,85,150000000.0,3000,Research Scientist,27.5,42,68,3.6,0,0,0,0,0
+MA,Northeast,Biotech & Pharmaceuticals,239,15000000000.0,10000,Research Scientist,161.5,117,206,3.7,0,0,0,0,0
+NY,Northeast,Insurance,72,1500000000.0,3000,Data Scientist,147.0,111,183,3.4,1,0,1,1,0
+MO,Midwest,"Oil, Gas, Energy & Utilities",59,1500000000.0,750,Data Analyst,61.0,44,78,4.1,0,0,0,0,1
+PA,Northeast,Education,36,1500000000.0,750,Machine Learning Engineer,120.0,81,159,2.6,1,0,0,0,0
+AZ,Southwest,Finance,12,750000000.0,3000,Data Scientist,124.5,83,166,3.2,1,0,0,0,1
+CA,West,Finance,11,75000000.0,125,Data Scientist,148.0,114,182,3.9,1,0,0,0,0
+AL,Southeast,Aerospace & Defense,24,37500000.0,125,Data Analyst,59.0,42,76,4.7,1,0,0,0,1
+MA,Northeast,Insurance,168,7500000000.0,7500,Data Scientist,146.5,114,179,3.7,1,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,0,1500000000.0,350,Research Scientist,91.5,60,123,2.9,0,0,0,0,1
+IL,Midwest,Biotech & Pharmaceuticals,5,1500000000.0,750,Data Scientist,133.0,100,166,3.0,1,0,0,1,0
+UT,West,Biotech & Pharmaceuticals,7,1500000.0,125,Data Scientist,140.5,108,173,4.7,1,0,0,1,0
+LA,Southeast,Information Technology,0,1500000000.0,750,Data Engineer,70.5,48,93,3.7,0,0,0,0,1
+NY,Northeast,Health Care,6,750000000.0,10000,Research Scientist,84.5,54,115,3.3,0,0,0,0,0
+MD,Northeast,Information Technology,18,7500000.0,125,Data Engineer,93.5,60,127,4.0,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,7,150000000.0,350,Research Scientist,134.5,90,179,4.4,0,0,0,0,0
+CA,West,Information Technology,13,15000000.0,350,Machine Learning Engineer,181.0,138,224,3.9,1,0,1,0,0
+NY,Northeast,Health Care,6,750000000.0,10000,Research Scientist,84.5,54,115,3.3,0,0,0,0,0
+CA,West,Information Technology,10,75000000.0,125,Data Engineer,205.0,190,220,4.1,1,0,1,1,0
+CA,West,"Arts, Entertainment & Recreation",34,150000000.0,3000,Data Analyst,48.5,35,62,3.6,0,0,0,0,1
+TX,Southwest,Health Care,43,75000000.0,3000,Research Scientist,21.5,36,50,4.0,0,0,0,1,0
+IL,Midwest,Manufacturing,0,150000000.0,750,Research Scientist,52.5,39,66,2.4,0,0,0,0,0
+PA,Northeast,Education,36,1500000000.0,750,Machine Learning Engineer,124.0,81,167,2.6,0,0,0,0,0
+CA,West,Health Care,24,750000000.0,750,Data Scientist,64.0,42,86,3.5,0,0,0,0,0
+TN,Southeast,Retail,62,15000000000.0,10000,Data Engineer,98.0,69,127,3.0,1,0,0,0,0
+DE,Northeast,Health Care,85,150000000.0,3000,Research Scientist,27.5,42,68,3.6,0,0,0,0,0
+WI,Midwest,Manufacturing,56,1500000000.0,750,Research Scientist,54.0,40,68,3.3,0,0,0,0,0
+MD,Northeast,Biotech & Pharmaceuticals,59,37500000.0,350,Research Scientist,81.0,49,113,2.7,0,0,0,0,1
+IL,Midwest,Transportation & Logistics,15,3000000000.0,3000,Data Engineer,107.5,75,140,3.4,0,0,0,0,0
+IL,Midwest,Transportation & Logistics,25,1500000000.0,750,Data Scientist,112.5,86,139,3.8,1,0,0,1,1
+VA,Southeast,Aerospace & Defense,25,15000000000.0,10000,Data Scientist,89.0,66,112,3.7,1,0,1,0,1
+WI,Midwest,Insurance,95,1500000000.0,3000,Data Scientist,100.5,76,125,4.8,0,0,0,0,0
+NY,Northeast,Travel & Tourism,18,3000000000.0,3000,Data Analyst,65.0,44,86,3.8,0,0,0,0,1
+LA,Southeast,Government,90,15000000000.0,10000,Research Scientist,20.0,30,50,3.4,0,0,0,0,0
+TX,Southwest,Business Services,21,1500000000.0,350,Data Scientist,72.5,53,92,4.3,1,0,1,1,1
+FL,Southeast,Business Services,10,150000000.0,750,Data Analyst,61.0,44,78,4.8,1,0,0,0,1
+NJ,Northeast,Manufacturing,174,3000000000.0,3000,Manager,109.5,85,134,3.4,1,0,0,0,1
+MA,Northeast,Information Technology,15,150000000.0,125,Data Engineer,84.5,59,110,3.9,1,0,1,0,0
+IL,Midwest,Business Services,28,15000000.0,125,Data Scientist,87.5,64,111,3.4,0,0,0,0,0
+CA,West,Media,23,15000000000.0,3000,Data Analyst,92.5,65,120,3.1,1,1,0,0,1
+VA,Southeast,Government,62,1500000000.0,7500,Data Scientist,81.5,60,103,3.2,1,0,1,0,0
+OH,Midwest,Transportation & Logistics,39,150000000.0,3000,Data Analyst,79.0,53,105,4.3,0,0,0,0,0
+MA,Northeast,Insurance,169,15000000000.0,7500,Data Scientist,164.0,124,204,3.6,1,0,1,1,0
+CA,West,Biotech & Pharmaceuticals,44,15000000000.0,10000,Data Scientist,169.0,131,207,3.9,1,0,1,0,1
+CA,West,Telecommunications,24,3000000000.0,7500,Data Scientist,142.0,110,174,3.8,1,0,1,1,1
+CA,West,Non-Profit,0,75000000.0,750,Data Analyst,47.5,33,62,2.8,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,239,15000000000.0,10000,Research Scientist,76.5,52,101,3.7,0,0,0,0,1
+CA,West,Information Technology,7,150000000.0,125,Data Analyst,69.0,48,90,3.4,1,0,0,0,1
+ID,West,Information Technology,36,75000000.0,350,Data Analyst,49.0,34,64,4.0,1,1,0,0,1
+CA,West,Information Technology,50,15000000000.0,10000,Data Scientist,171.5,132,211,3.5,1,0,0,1,0
+MD,Northeast,Insurance,39,750000000.0,750,Data Scientist,107.0,81,133,3.8,1,0,0,0,1
+NJ,Northeast,Information Technology,24,1500000000.0,350,Data Analyst,59.0,42,76,3.7,0,0,0,0,1
+IN,Midwest,Information Technology,1,37500000.0,350,Data Scientist,88.5,66,111,3.5,0,0,0,1,0
+UT,West,Non-Profit,0,15000000000.0,10000,Data Engineer,107.0,74,140,4.2,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,171,15000000000.0,10000,Data Scientist,86.5,63,110,4.0,1,0,0,1,1
+KY,Southeast,Transportation & Logistics,85,15000000.0,125,Data Scientist,84.0,63,105,4.3,1,0,0,0,1
+NY,Northeast,Business Services,28,75000000.0,350,Data Scientist,114.5,91,138,4.7,1,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,10,1500000000.0,3000,Research Scientist,145.0,100,190,3.5,1,0,0,0,1
+TN,Southeast,Information Technology,14,150000000.0,3000,Data Engineer,88.0,62,114,4.4,1,0,1,1,1
+IL,Midwest,Information Technology,19,150000000.0,750,Data Engineer,100.0,71,129,4.1,1,0,1,1,0
+VA,Southeast,Education,27,37500000.0,350,Data Analyst,61.5,43,80,2.9,1,0,0,0,1
+OR,West,Business Services,21,1500000000.0,3000,Data Scientist,96.5,74,119,2.5,1,0,1,0,0
+MN,Midwest,Business Services,28,1500000000.0,350,Data Analyst,76.0,55,97,4.2,1,0,0,0,1
+NY,Northeast,Business Services,54,150000000.0,3000,Data Scientist,15.5,15,16,3.9,0,0,0,0,1
+TX,Southwest,Business Services,10,750000.0,25,Data Scientist,83.5,61,106,4.3,1,0,0,0,1
+WI,Midwest,Finance,69,75000000.0,125,Data Scientist,120.0,91,149,2.7,1,0,0,0,0
+CA,West,Biotech & Pharmaceuticals,44,15000000000.0,10000,Data Scientist,163.0,127,199,3.9,0,0,0,0,1
+RI,Northeast,Insurance,81,1500000000.0,750,Data Analyst,100.0,74,126,3.4,0,0,0,1,0
+NE,Midwest,Non-Profit,103,150000000.0,3000,Research Scientist,52.5,33,72,3.8,0,0,0,0,1
+PA,Northeast,Health Care,3,3000000000.0,7500,Research Scientist,20.5,34,48,3.6,0,0,0,0,0
+DC,Northeast,Health Care,137,1500000000.0,750,Data Analyst,50.0,37,63,3.3,0,0,0,0,1
+TX,Southwest,Business Services,14,75000000.0,350,Data Engineer,93.0,67,119,3.4,1,0,0,1,0
+OH,Midwest,Insurance,133,3000000000.0,3000,Data Scientist,94.5,72,117,3.0,1,0,0,0,0
+CA,West,Information Technology,38,3000000000.0,7500,Data Scientist,150.5,116,185,4.0,1,0,1,0,0
+NC,Southeast,Insurance,16,7500000000.0,3000,Data Scientist,102.0,78,126,3.7,1,0,1,1,1
+MA,Northeast,Biotech & Pharmaceuticals,7,150000000.0,350,Research Scientist,62.0,42,82,4.4,0,0,0,0,0
+MI,Midwest,Business Services,53,1500000000.0,350,Manager,87.5,59,116,4.3,0,0,0,0,1
+CT,Northeast,Biotech & Pharmaceuticals,171,15000000000.0,10000,Data Scientist,84.0,63,105,4.0,0,0,0,1,1
+VA,Southeast,Information Technology,8,150000000.0,750,Data Scientist,143.0,109,177,4.0,1,0,0,1,0
+PA,Northeast,Business Services,0,7500000.0,25,Data Scientist,155.0,116,194,3.2,1,0,1,1,1
+FL,Southeast,Business Services,14,37500000.0,125,Data Engineer,71.5,48,95,4.2,1,0,1,1,1
+CA,West,Insurance,20,15000000.0,125,Data Scientist,108.0,83,133,3.9,1,0,1,0,0
+CA,West,Biotech & Pharmaceuticals,239,15000000000.0,10000,Research Scientist,151.5,105,198,3.7,0,0,0,0,1
+CA,West,Retail,14,150000000.0,125,Data Analyst,51.5,31,72,3.6,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,239,15000000000.0,10000,Research Scientist,140.0,98,182,3.7,0,0,0,0,1
+NJ,Northeast,Information Technology,6,1500000000.0,350,Data Analyst,77.5,55,100,2.8,1,0,0,0,1
+ID,West,Finance,16,75000000.0,750,Data Analyst,63.5,45,82,4.2,0,0,0,0,1
+CA,West,Information Technology,0,750000.0,25,Data Scientist,109.0,83,135,4.0,1,0,0,0,0
+TN,Southeast,Aerospace & Defense,170,750000000.0,7500,Data Scientist,96.0,70,122,3.5,1,0,0,0,0
+CA,West,Information Technology,3,7500000.0,125,Data Scientist,225.0,200,250,0.0,1,0,0,1,1
+CA,West,Finance,12,750000000.0,3000,Data Engineer,101.0,70,132,3.2,1,0,0,1,1
+NJ,Northeast,Insurance,38,15000000.0,3000,Data Scientist,98.5,73,124,3.3,0,0,0,0,1
+IA,Midwest,Manufacturing,72,1500000000.0,3000,Data Engineer,77.5,54,101,3.9,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,239,15000000000.0,10000,Research Scientist,161.5,117,206,3.7,0,0,0,0,0
+DE,Northeast,Health Care,85,150000000.0,3000,Research Scientist,27.5,42,68,3.6,0,0,0,0,0
+NY,Northeast,Insurance,72,1500000000.0,3000,Data Scientist,147.0,111,183,3.4,1,0,1,1,0
+CA,West,Information Technology,23,15000000000.0,10000,Data Scientist,90.0,68,112,3.5,1,0,0,0,1
+NJ,Northeast,Finance,118,7500000000.0,750,Data Analyst,58.0,42,74,4.3,0,0,0,1,0
+MO,Midwest,"Oil, Gas, Energy & Utilities",59,1500000000.0,750,Data Analyst,61.0,44,78,4.1,0,0,0,0,1
+PA,Northeast,Education,36,1500000000.0,750,Machine Learning Engineer,120.0,81,159,2.6,1,0,0,0,0
+NY,Northeast,Retail,276,750000000.0,3000,Data Scientist,128.0,95,161,3.6,1,0,0,0,0
+OR,West,Finance,68,150000000.0,3000,Data Scientist,99.5,75,124,3.5,1,0,1,1,1
+MI,Midwest,Real Estate,23,750000000.0,3000,Data Scientist,96.0,72,120,3.6,1,0,0,0,0
+DC,Northeast,Biotech & Pharmaceuticals,17,150000000.0,350,Data Scientist,101.0,76,126,2.3,1,0,0,0,1
+CA,West,Finance,11,75000000.0,125,Data Scientist,148.0,114,182,3.9,1,0,0,0,0
+VA,Southeast,Information Technology,8,150000000.0,750,Data Scientist,142.0,108,176,4.0,1,0,0,1,0
+CA,West,Education,13,750000.0,25,Data Scientist,169.0,130,208,4.1,0,0,0,1,1
+AZ,Southwest,Finance,12,750000000.0,3000,Data Scientist,124.5,83,166,3.2,1,0,0,0,1
+AL,Southeast,Aerospace & Defense,24,37500000.0,125,Data Analyst,59.0,42,76,4.7,1,0,0,0,1
+CA,West,Business Services,33,15000000.0,125,Data Scientist,52.5,37,68,4.2,1,0,0,0,0
+TX,Southwest,Information Technology,38,75000000.0,750,Data Engineer,75.5,52,99,4.6,0,0,1,0,0
+NY,Northeast,Insurance,157,15000000000.0,10000,Data Scientist,139.0,105,173,3.7,1,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,239,15000000000.0,10000,Data Engineer,102.5,71,134,3.7,1,0,1,1,1
+SC,Southeast,Business Services,91,37500000.0,350,Research Scientist,60.5,39,82,4.4,0,0,0,0,0
+MA,Northeast,Insurance,168,7500000000.0,7500,Data Scientist,146.5,114,179,3.7,1,0,0,0,1
+CA,West,Biotech & Pharmaceuticals,44,15000000000.0,10000,Research Scientist,125.0,88,162,3.9,0,0,0,0,1
+MA,Northeast,Insurance,169,15000000000.0,7500,Data Analyst,81.0,60,102,3.6,1,0,0,0,0
+IL,Midwest,Biotech & Pharmaceuticals,5,1500000000.0,750,Data Scientist,133.0,100,166,3.0,1,0,0,1,0
+DC,Northeast,Information Technology,24,15000000000.0,10000,Data Analyst,77.0,55,99,3.4,0,0,0,0,1
+VA,Southeast,Business Services,52,1500000000.0,7500,Data Engineer,92.0,67,117,4.1,0,0,0,0,0
+MA,Northeast,Biotech & Pharmaceuticals,24,15000000000.0,10000,Data Scientist,121.0,92,150,3.8,0,0,0,0,0
+CA,West,Information Technology,38,3000000000.0,7500,Data Engineer,162.5,116,209,4.0,1,0,1,0,1
+TX,Southwest,Business Services,73,750000000.0,3000,Research Scientist,60.0,38,82,3.9,0,0,0,0,0
+CA,West,Information Technology,0,1500000000.0,350,Research Scientist,87.5,85,90,0.0,1,0,0,0,1
+IN,Midwest,Information Technology,5,750000.0,25,Data Engineer,90.5,62,119,4.4,1,0,1,0,0
+MA,Northeast,Biotech & Pharmaceuticals,24,15000000000.0,10000,Data Scientist,114.5,86,143,3.8,1,0,0,0,0
+CA,West,Telecommunications,24,3000000000.0,7500,Data Scientist,121.0,93,149,3.8,1,0,1,0,1
+TX,Southwest,Business Services,27,75000000.0,750,Data Scientist,110.0,84,136,2.2,0,0,0,0,0
+MA,Northeast,Biotech & Pharmaceuticals,0,1500000000.0,350,Research Scientist,91.5,60,123,2.9,0,0,0,0,1
+VA,Southeast,Business Services,52,1500000000.0,7500,Data Analyst,70.5,52,89,4.1,0,0,0,0,0
+LA,Southeast,Information Technology,0,1500000000.0,750,Data Engineer,70.5,48,93,3.7,0,0,0,0,1
+WA,West,"Oil, Gas, Energy & Utilities",55,750000000.0,3000,Data Scientist,76.5,56,97,3.8,1,0,0,0,0
+MA,Northeast,Insurance,169,15000000000.0,7500,Data Engineer,92.0,65,119,3.6,1,0,1,0,1
+UT,West,Biotech & Pharmaceuticals,7,1500000.0,125,Data Scientist,140.5,108,173,4.7,1,0,0,1,0
+VA,Southeast,Information Technology,51,1500000000.0,3000,Data Scientist,82.0,63,101,3.5,1,0,0,0,0
+NY,Northeast,Health Care,6,750000000.0,10000,Research Scientist,84.5,54,115,3.3,0,0,0,0,0
+MA,Northeast,Biotech & Pharmaceuticals,7,150000000.0,350,Research Scientist,134.5,90,179,4.4,0,0,0,0,0
+CA,West,Business Services,12,1500000000.0,350,Data Scientist,164.5,127,202,3.3,0,0,0,0,0
+FL,Southeast,Telecommunications,29,75000000.0,350,Data Analyst,44.0,31,57,3.4,0,0,0,0,0
+MD,Northeast,Information Technology,18,7500000.0,125,Data Engineer,93.5,60,127,4.0,0,0,0,0,1
+VA,Southeast,Information Technology,5,750000.0,25,Data Engineer,109.0,75,143,4.4,1,0,1,0,0
+TX,Southwest,Information Technology,10,1500000000.0,750,Data Engineer,149.5,105,194,3.8,0,0,1,1,0
+DC,Northeast,Business Services,13,150000000.0,3000,Data Engineer,65.5,45,86,3.5,0,0,1,1,1
+NC,Southeast,Insurance,3,150000000.0,3000,Data Scientist,124.5,95,154,3.5,1,0,1,0,1
+CA,West,Business Services,22,150000000.0,125,Data Engineer,114.0,80,148,2.9,1,0,1,0,0
+PA,Northeast,Finance,83,1500000000.0,750,Data Analyst,49.0,36,62,3.9,1,0,0,0,0
+NY,Northeast,Health Care,6,750000000.0,10000,Research Scientist,84.5,54,115,3.3,0,0,0,0,0
+VA,Southeast,Information Technology,31,150000000.0,750,Data Analyst,71.0,50,92,3.7,0,0,0,0,1
+MA,Northeast,Insurance,169,15000000000.0,7500,Director,101.0,67,135,3.6,0,0,0,0,0
+CA,West,Information Technology,51,1500000000.0,3000,Data Scientist,107.0,82,132,3.5,1,0,1,1,0
+MA,Northeast,Biotech & Pharmaceuticals,46,1500000000.0,350,Data Scientist,112.5,85,140,4.7,1,0,0,0,1
+CA,West,Information Technology,13,15000000.0,350,Machine Learning Engineer,181.0,138,224,3.9,1,0,1,0,0
+IL,Midwest,Information Technology,92,7500000000.0,10000,Data Analyst,61.0,42,80,3.7,1,0,1,0,0
+CA,West,Information Technology,10,75000000.0,125,Data Engineer,205.0,190,220,4.1,1,0,1,1,0
+KY,Southeast,Manufacturing,145,15000000000.0,7500,Research Scientist,103.5,68,139,3.1,0,0,0,0,0
+MA,Northeast,Insurance,169,15000000000.0,7500,Data Scientist,63.0,34,92,3.6,0,0,0,0,1
+CT,Northeast,Information Technology,39,15000000000.0,10000,Research Scientist,62.5,54,71,3.0,0,0,0,0,1
+CA,West,Health Care,7,1500000000.0,750,Data Engineer,94.5,65,124,3.5,1,0,1,1,1
+CA,West,"Arts, Entertainment & Recreation",34,150000000.0,3000,Data Analyst,48.5,35,62,3.6,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,10,1500000000.0,3000,Research Scientist,154.5,109,200,3.5,1,0,0,0,1
+TX,Southwest,Health Care,43,75000000.0,3000,Research Scientist,21.5,36,50,4.0,0,0,0,1,0
+KS,Midwest,Finance,47,750000000.0,750,Machine Learning Engineer,87.0,61,113,3.7,1,0,0,0,1
+IL,Midwest,Manufacturing,0,150000000.0,750,Research Scientist,52.5,39,66,2.4,0,0,0,0,0
+NY,Northeast,Business Services,17,1500000000.0,750,Data Engineer,64.5,43,86,3.2,1,0,0,1,1
+CA,West,Biotech & Pharmaceuticals,0,37500000.0,350,Research Scientist,111.5,74,149,2.1,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,239,15000000000.0,10000,Data Engineer,154.5,113,196,3.7,0,0,1,1,1
+PA,Northeast,Education,36,1500000000.0,750,Machine Learning Engineer,124.0,81,167,2.6,0,0,0,0,0
+IL,Midwest,Business Services,12,75000000.0,350,Data Scientist,128.5,97,160,4.4,1,0,0,1,1
+CO,West,Health Care,54,150000000.0,750,Research Scientist,31.5,48,78,3.7,0,0,0,0,0
+CA,West,Health Care,24,750000000.0,750,Data Scientist,64.0,42,86,3.5,0,0,0,0,0
+TN,Southeast,Retail,62,15000000000.0,10000,Data Engineer,98.0,69,127,3.0,1,0,0,0,0
+CA,West,Information Technology,10,150000000.0,125,Data Scientist,142.5,110,175,4.2,0,0,0,0,0
+NY,Northeast,Biotech & Pharmaceuticals,107,15000000000.0,10000,Data Scientist,137.0,102,172,3.9,1,0,0,0,0
+CO,West,Insurance,105,750000000.0,750,Data Engineer,99.0,74,124,4.0,1,0,0,1,0
+WI,Midwest,Manufacturing,56,1500000000.0,750,Research Scientist,54.0,40,68,3.3,0,0,0,0,0
+MA,Northeast,Information Technology,36,1500000000.0,3000,Data Scientist,139.5,108,171,4.4,1,0,0,0,0
+MD,Northeast,Information Technology,21,37500000.0,350,Data Engineer,109.0,76,142,3.4,0,0,0,1,0
+IL,Midwest,Insurance,108,15000000000.0,10000,Data Scientist,254.0,202,306,3.3,1,0,0,0,0
+CA,West,Biotech & Pharmaceuticals,8,1500000000.0,350,Research Scientist,73.0,49,97,2.9,0,0,0,0,0
+MD,Northeast,Biotech & Pharmaceuticals,59,37500000.0,350,Research Scientist,81.0,49,113,2.7,0,0,0,0,1
+DE,Northeast,Health Care,85,150000000.0,3000,Research Scientist,27.5,42,68,3.6,0,0,0,0,0
+NC,Southeast,Manufacturing,145,15000000000.0,7500,Research Scientist,99.5,65,134,3.1,0,0,0,0,1
+OH,Midwest,Insurance,31,750000000.0,750,Data Analyst,45.5,32,59,3.3,0,0,0,0,0
+IN,Midwest,Business Services,24,37500000.0,125,Data Engineer,122.5,87,158,4.5,1,0,1,1,0
+IL,Midwest,Finance,52,1500000000.0,7500,Data Scientist,140.0,107,173,3.9,1,0,0,0,1
+VA,Southeast,Government,62,1500000000.0,7500,Data Scientist,77.5,56,99,3.2,0,0,0,0,0
+MA,Northeast,"Construction, Repair & Maintenance",44,750000.0,25,Research Scientist,26.5,50,56,3.3,0,0,0,0,1
+NC,Southeast,Manufacturing,145,15000000000.0,7500,Research Scientist,117.5,80,155,3.1,0,0,0,0,1
+CA,West,Biotech & Pharmaceuticals,14,75000000.0,750,Research Scientist,70.5,43,98,2.4,0,0,0,0,0
+CA,West,Information Technology,9,37500000.0,125,Manager,61.5,45,78,4.8,0,0,0,0,1
+NY,Northeast,Biotech & Pharmaceuticals,5,150000000.0,3000,Research Scientist,70.0,44,96,2.9,0,0,0,0,1
+GA,Southeast,Biotech & Pharmaceuticals,5,150000000.0,3000,Research Scientist,80.0,50,110,2.9,0,0,0,0,1
+MA,Northeast,Insurance,32,150000000.0,3000,Data Engineer,90.0,61,119,3.4,0,0,1,0,1
+MA,Northeast,Biotech & Pharmaceuticals,0,150000000.0,0,Research Scientist,120.0,100,140,0.0,0,0,0,0,1
+PA,Northeast,Education,36,1500000000.0,750,Research Scientist,73.5,56,91,2.6,0,0,0,0,1
+FL,Southeast,Business Services,36,1500000000.0,750,Data Scientist,91.0,68,114,3.8,1,0,0,0,1
+DC,Northeast,Information Technology,0,150000000.0,0,Data Scientist,155.0,150,160,5.0,0,0,0,1,1
+MA,Northeast,Insurance,169,15000000000.0,7500,Research Scientist,129.5,101,158,3.6,1,0,1,1,1
+NY,Northeast,Biotech & Pharmaceuticals,171,15000000000.0,10000,Data Scientist,167.5,125,210,4.0,0,0,0,1,1
+WI,Midwest,Finance,150,1500000000.0,3000,Data Analyst,60.0,43,77,3.8,0,0,0,1,1
+CA,West,Finance,11,75000000.0,125,Data Scientist,180.0,139,221,3.9,1,0,0,0,1
+NY,Northeast,Travel & Tourism,18,3000000000.0,3000,Data Analyst,65.0,44,86,3.8,0,0,0,0,1
+NC,Southeast,Information Technology,30,1500000000.0,7500,Data Engineer,112.5,78,147,4.3,1,0,1,1,0
+NY,Northeast,Retail,10,150000000.0,350,Data Analyst,87.5,65,110,1.9,1,0,0,0,1
+IN,Midwest,Insurance,108,15000000000.0,10000,Data Engineer,51.5,37,66,3.3,1,0,0,0,1
+CA,West,Business Services,48,15000000.0,125,Research Scientist,51.0,38,64,4.7,0,0,0,0,1
+MA,Northeast,Finance,164,15000000000.0,10000,Data Scientist,62.5,43,82,3.1,1,0,0,0,1
+AZ,Southwest,Health Care,39,1500000000.0,750,Data Engineer,100.0,90,110,3.4,0,0,0,0,0
+VA,Southeast,Information Technology,16,150000000.0,125,Data Engineer,85.0,61,109,4.4,1,0,1,1,0
+FL,Southeast,Information Technology,8,1500000000.0,350,Data Scientist,122.0,93,151,3.9,1,0,0,1,0
+IL,Midwest,Information Technology,25,150000000.0,750,Research Scientist,66.5,52,81,3.9,1,0,0,0,0
+MO,Midwest,Finance,18,150000000.0,3000,Research Scientist,70.5,40,101,4.7,0,0,1,0,1
+TX,Southwest,Business Services,10,15000000.0,125,Data Engineer,138.5,97,180,4.7,1,0,1,0,0
+MA,Northeast,Business Services,77,150000000.0,3000,Data Scientist,107.5,81,134,3.4,0,0,1,0,1
+MA,Northeast,Biotech & Pharmaceuticals,12,75000000.0,750,Research Scientist,120.5,84,157,3.8,0,0,0,0,0
+MD,Northeast,Biotech & Pharmaceuticals,59,37500000.0,350,Research Scientist,81.0,49,113,2.7,0,0,0,0,0
+KY,Southeast,Manufacturing,145,15000000000.0,7500,Research Scientist,103.5,68,139,3.1,0,0,0,0,0
+IL,Midwest,Transportation & Logistics,15,3000000000.0,3000,Data Engineer,107.5,75,140,3.4,0,0,0,0,0
+CA,West,Information Technology,13,150000000.0,3000,Data Engineer,162.0,121,203,4.0,1,0,1,1,1
+CA,West,Information Technology,51,1500000000.0,3000,Data Scientist,68.5,52,85,3.5,1,0,1,0,1
+OH,Midwest,Insurance,42,7500000000.0,10000,Data Scientist,110.5,81,140,3.4,0,0,0,0,1
+IL,Midwest,Manufacturing,95,15000000000.0,10000,Data Scientist,81.0,63,99,3.7,0,0,0,0,0
+IL,Midwest,Real Estate,27,3000000000.0,3000,Data Scientist,130.0,110,150,4.3,1,0,1,0,1
+IA,Midwest,Insurance,0,150000000.0,350,Data Engineer,115.5,83,148,3.7,1,0,0,0,1
+WA,West,"Oil, Gas, Energy & Utilities",55,750000000.0,3000,Data Scientist,80.5,60,101,3.8,0,0,0,0,0
+IA,Midwest,Finance,28,150000000.0,750,Data Scientist,43.0,31,55,4.6,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,17,1500000000.0,350,Director,140.0,102,178,4.4,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,0,150000000.0,0,Research Scientist,120.0,110,130,0.0,0,0,0,0,0
+PA,Northeast,Insurance,37,7500000000.0,7500,Data Analyst,66.5,48,85,3.0,0,0,0,0,1
+CA,West,Business Services,14,1500000.0,125,Data Engineer,94.5,66,123,4.7,1,0,0,1,0
+WA,West,"Oil, Gas, Energy & Utilities",55,750000000.0,3000,Data Scientist,119.0,92,146,3.8,0,0,0,0,0
+NE,Midwest,Health Care,24,15000000000.0,10000,Research Scientist,25.0,42,58,3.2,0,0,0,0,0
+TN,Southeast,Finance,20,3000000000.0,7500,Data Analyst,13.5,20,34,2.7,0,0,0,0,1
+IL,Midwest,Insurance,108,15000000000.0,10000,Data Scientist,194.5,150,239,3.3,1,0,0,0,0
+TX,Southwest,Business Services,73,750000000.0,3000,Research Scientist,71.5,52,91,3.9,1,0,0,1,1
+TX,Southwest,Education,0,1500000000.0,750,Data Scientist,105.5,82,129,3.7,1,0,0,1,0
+NC,Southeast,Manufacturing,145,15000000000.0,7500,Research Scientist,74.0,47,101,3.1,0,0,0,0,1
+AL,Southeast,Aerospace & Defense,98,15000000000.0,10000,Data Engineer,62.5,49,76,3.7,0,0,0,0,1
+NC,Southeast,Business Services,62,750000000.0,3000,Research Scientist,65.5,43,88,4.3,0,0,0,0,0
+NJ,Northeast,Business Services,31,150000000.0,3000,Data Scientist,161.5,124,199,3.6,1,0,0,1,1
+PA,Northeast,Biotech & Pharmaceuticals,17,150000000.0,3000,Data Analyst,72.5,52,93,2.1,0,0,0,0,1
+CA,West,Information Technology,12,15000000.0,125,Data Engineer,139.0,97,181,3.9,1,0,0,1,1
+CA,West,Information Technology,13,15000000.0,350,Data Engineer,136.5,100,173,3.9,0,0,0,0,0
+NY,Northeast,Travel & Tourism,18,3000000000.0,3000,Data Scientist,74.5,53,96,3.8,1,0,1,0,0
+NC,Southeast,Manufacturing,145,15000000000.0,7500,Research Scientist,80.5,65,96,3.1,0,0,0,0,1
+NM,Southwest,Biotech & Pharmaceuticals,150,1500000000.0,7500,Data Scientist,75.5,56,95,3.5,1,0,0,0,1
+MO,Midwest,Information Technology,4,150000000.0,125,Data Scientist,143.5,111,176,4.7,1,0,1,0,0
+VA,Southeast,Aerospace & Defense,6,15000000.0,125,Data Scientist,101.0,75,127,5.0,1,0,0,0,0
+MA,Northeast,Insurance,169,15000000000.0,7500,Data Engineer,92.0,65,119,3.6,1,0,1,0,1
+WA,West,"Oil, Gas, Energy & Utilities",55,750000000.0,3000,Data Scientist,76.5,56,97,3.8,1,0,0,0,0
+UT,West,Biotech & Pharmaceuticals,7,1500000.0,125,Data Scientist,140.5,108,173,4.7,1,0,0,1,0
+NJ,Northeast,Finance,208,15000000000.0,10000,Data Scientist,116.5,94,139,3.6,0,0,0,0,1
+CA,West,Information Technology,21,1500000000.0,750,Machine Learning Engineer,232.5,176,289,4.7,1,0,0,0,0
+CA,West,Information Technology,4,150000000.0,125,Data Scientist,120.5,92,149,3.5,1,0,0,0,0
+VA,Southeast,Information Technology,51,1500000000.0,3000,Data Scientist,82.0,63,101,3.5,1,0,0,0,0
+NY,Northeast,Health Care,6,750000000.0,10000,Research Scientist,84.5,54,115,3.3,0,0,0,0,0
+CA,West,Information Technology,13,15000000000.0,10000,Data Scientist,153.0,118,188,2.7,1,0,1,1,0
+CA,West,Information Technology,12,1500000000.0,750,Data Scientist,127.0,108,146,3.4,1,0,1,0,0
+CA,West,Information Technology,10,150000000.0,125,Data Scientist,85.5,65,106,4.7,1,0,1,0,1
+NY,Northeast,Business Services,44,1500000000.0,3000,Data Scientist,76.5,55,98,2.8,1,0,0,0,1
+NY,Northeast,Media,28,750000000.0,3000,Data Scientist,128.0,94,162,3.5,1,0,1,0,0
+PA,Northeast,Business Services,0,7500000.0,25,Data Engineer,91.5,63,120,3.2,1,0,1,1,1
+MA,Northeast,Biotech & Pharmaceuticals,7,150000000.0,350,Research Scientist,134.5,90,179,4.4,0,0,0,0,0
+CA,West,Business Services,12,1500000000.0,350,Data Scientist,164.5,127,202,3.3,0,0,0,0,0
+MD,Northeast,Information Technology,18,7500000.0,125,Data Engineer,93.5,60,127,4.0,0,0,0,0,1
+FL,Southeast,Telecommunications,29,75000000.0,350,Data Analyst,44.0,31,57,3.4,0,0,0,0,0
+TX,Southwest,Information Technology,10,1500000000.0,750,Data Engineer,149.5,105,194,3.8,0,0,1,1,0
+DC,Northeast,Business Services,13,150000000.0,3000,Data Engineer,65.5,45,86,3.5,0,0,1,1,1
+VA,Southeast,Information Technology,5,750000.0,25,Data Engineer,109.0,75,143,4.4,1,0,1,0,0
+CA,West,Information Technology,32,75000000.0,3000,Data Engineer,177.0,126,228,3.7,1,0,1,1,0
+VA,Southeast,Aerospace & Defense,10,150000000.0,350,Data Scientist,107.0,80,134,4.7,1,0,1,0,1
+CA,West,Information Technology,8,1500000000.0,750,Data Scientist,154.5,120,189,4.1,1,0,1,0,1
+CA,West,Accounting & Legal,0,750000.0,25,Data Scientist,113.5,85,142,4.0,1,0,1,0,0
+NC,Southeast,Insurance,3,150000000.0,3000,Data Scientist,124.5,95,154,3.5,1,0,1,0,1
+CA,West,Biotech & Pharmaceuticals,0,750000.0,25,Data Scientist,143.5,111,176,2.5,1,0,0,0,1
+CA,West,Information Technology,0,750000.0,25,Data Scientist,113.5,87,140,3.9,1,0,0,0,0
+VA,Southeast,Aerospace & Defense,51,15000000000.0,10000,Data Scientist,101.5,76,127,3.4,1,0,0,1,0
+NY,Northeast,Manufacturing,85,3000000000.0,10000,Data Analyst,73.0,54,92,3.6,0,0,0,1,1
+NY,Northeast,Business Services,4,3000000000.0,10000,Data Scientist,80.5,61,100,3.5,1,0,0,1,0
+NY,Northeast,Information Technology,0,150000000.0,0,Data Scientist,110.5,81,140,0.0,1,0,0,0,0
+CA,West,Business Services,22,150000000.0,125,Data Engineer,114.0,80,148,2.9,1,0,1,0,0
+CA,West,Consumer Services,0,7500000.0,125,Data Scientist,139.5,108,171,3.5,1,0,0,0,0
+NY,Northeast,Information Technology,9,750000.0,25,Data Scientist,145.5,112,179,4.8,1,0,0,0,1
+NY,Northeast,Finance,13,150000000.0,350,Data Scientist,87.0,63,111,4.0,0,0,0,0,1
+MA,Northeast,Finance,135,75000000.0,350,Data Scientist,100.5,75,126,4.2,0,0,0,0,1
+NY,Northeast,Information Technology,53,15000000000.0,10000,Data Scientist,147.0,110,184,3.8,1,0,1,0,1
+NY,Northeast,Insurance,106,150000000.0,350,Data Engineer,110.5,76,145,3.7,1,0,0,0,1
+PA,Northeast,Finance,83,1500000000.0,750,Data Analyst,49.0,36,62,3.9,1,0,0,0,0
+MA,Northeast,Business Services,0,7500000.0,125,Data Scientist,94.0,70,118,4.6,1,0,1,1,0
+NY,Northeast,Information Technology,21,750000000.0,3000,Data Scientist,123.5,94,153,4.3,1,0,0,1,0
+NY,Northeast,Health Care,6,750000000.0,10000,Research Scientist,84.5,54,115,3.3,0,0,0,0,0
+VA,Southeast,Information Technology,31,150000000.0,750,Data Analyst,71.0,50,92,3.7,0,0,0,0,1
+OR,West,Information Technology,81,15000000000.0,10000,Data Engineer,73.0,49,97,4.0,0,0,0,0,0
+MA,Northeast,Insurance,169,15000000000.0,7500,Director,101.0,67,135,3.6,0,0,0,0,0
+CA,West,Information Technology,13,15000000.0,350,Machine Learning Engineer,181.0,138,224,3.9,1,0,1,0,0
+CA,West,Aerospace & Defense,81,15000000000.0,10000,Data Scientist,109.5,80,139,3.7,0,0,0,0,1
+WA,West,Information Technology,62,15000000000.0,10000,Data Scientist,184.5,158,211,3.7,1,0,0,0,1
+NY,Northeast,Information Technology,6,1500000000.0,350,Data Scientist,165.0,150,180,3.9,1,0,0,0,0
+IL,Midwest,Information Technology,92,7500000000.0,10000,Data Analyst,61.0,42,80,3.7,1,0,1,0,0
+CA,West,Information Technology,10,75000000.0,125,Data Engineer,205.0,190,220,4.1,1,0,1,1,0
+NY,Northeast,Education,14,150000000.0,3000,Data Analyst,59.5,42,77,3.1,1,0,0,0,1
+KY,Southeast,Manufacturing,145,15000000000.0,7500,Research Scientist,103.5,68,139,3.1,0,0,0,0,0
+CT,Northeast,Information Technology,39,15000000000.0,10000,Research Scientist,62.5,54,71,3.0,0,0,0,0,1
+MA,Northeast,Insurance,169,15000000000.0,7500,Data Scientist,63.0,34,92,3.6,0,0,0,0,1
+NY,Northeast,Health Care,40,15000000.0,25,Data Analyst,66.0,47,85,3.6,0,0,0,0,1
+CA,West,Health Care,7,1500000000.0,750,Data Engineer,94.5,65,124,3.5,1,0,1,1,1
+NY,Northeast,Education,8,150000000.0,125,Data Scientist,75.5,56,95,4.2,1,0,0,1,0
+VA,Southeast,Aerospace & Defense,66,150000000.0,750,Machine Learning Engineer,87.0,62,112,4.0,1,0,0,0,0
+MD,Northeast,Biotech & Pharmaceuticals,107,15000000000.0,10000,Data Scientist,140.0,107,173,3.9,1,0,0,0,1
+MD,Northeast,Information Technology,14,37500000.0,350,Data Scientist,86.0,64,108,3.7,1,0,0,0,1
+CA,West,Information Technology,8,750000.0,25,Data Scientist,116.5,89,144,4.4,1,0,0,0,0
+MA,Northeast,Biotech & Pharmaceuticals,10,1500000000.0,3000,Research Scientist,154.5,109,200,3.5,1,0,0,0,1
+KS,Midwest,Finance,47,750000000.0,750,Machine Learning Engineer,87.0,61,113,3.7,1,0,0,0,1
+CA,West,"Arts, Entertainment & Recreation",34,150000000.0,3000,Data Analyst,48.5,35,62,3.6,0,0,0,0,1
+TX,Southwest,Information Technology,18,1500000000.0,750,Data Engineer,80.0,55,105,3.4,1,0,1,0,1
+TX,Southwest,Health Care,43,75000000.0,3000,Research Scientist,21.5,36,50,4.0,0,0,0,1,0
+IL,Midwest,Manufacturing,0,150000000.0,750,Research Scientist,52.5,39,66,2.4,0,0,0,0,0
+CA,West,Aerospace & Defense,81,15000000000.0,10000,Data Scientist,173.0,135,211,3.7,1,0,0,0,0
+AZ,Southwest,Biotech & Pharmaceuticals,23,1500000000.0,750,Data Engineer,68.5,57,80,3.5,1,0,1,0,0
+NY,Northeast,Finance,19,150000000.0,3000,Data Scientist,172.0,129,215,4.4,0,0,0,0,0
+MA,Northeast,Insurance,108,15000000000.0,10000,Data Scientist,114.5,86,143,3.3,1,0,0,0,0
+MD,Northeast,Biotech & Pharmaceuticals,107,15000000000.0,10000,Research Scientist,95.0,63,127,3.9,0,0,0,0,0
+MA,Northeast,Government,62,1500000000.0,7500,Data Scientist,69.5,50,89,3.2,1,0,0,0,1
+NY,Northeast,Business Services,17,1500000000.0,750,Data Engineer,64.5,43,86,3.2,1,0,0,1,1
+CA,West,Biotech & Pharmaceuticals,0,37500000.0,350,Research Scientist,111.5,74,149,2.1,0,0,0,0,1
+NY,Northeast,Consumer Services,13,1500000000.0,750,Data Scientist,97.5,71,124,4.0,1,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,239,15000000000.0,10000,Data Engineer,154.5,113,196,3.7,0,0,1,1,1
+PA,Northeast,Education,36,1500000000.0,750,Machine Learning Engineer,124.0,81,167,2.6,0,0,0,0,0
+NY,Northeast,Health Care,9,1500000000.0,350,Data Scientist,95.0,69,121,3.4,1,0,1,1,0
+IL,Midwest,Business Services,12,75000000.0,350,Data Scientist,128.5,97,160,4.4,1,0,0,1,1
+CA,West,Information Technology,14,1500000000.0,750,Data Scientist,194.0,150,238,3.2,0,0,0,1,1
+NY,Northeast,Business Services,15,1500000000.0,350,Data Scientist,104.5,77,132,3.5,1,0,1,1,1
+CO,West,Health Care,54,150000000.0,750,Research Scientist,31.5,48,78,3.7,0,0,0,0,0
+NC,Southeast,Information Technology,12,1500000000.0,350,Data Engineer,85.5,59,112,4.2,1,0,0,0,1
+UT,West,Non-Profit,0,15000000000.0,10000,Data Analyst,50.0,35,65,4.2,0,0,0,1,1
+CA,West,Media,23,15000000000.0,3000,Data Engineer,113.0,79,147,3.1,1,0,1,1,1
+MA,Northeast,Biotech & Pharmaceuticals,190,15000000000.0,10000,Research Scientist,90.5,62,119,3.9,0,0,0,1,0
+CA,West,Information Technology,12,150000000.0,125,Data Scientist,153.0,119,187,4.3,1,0,1,0,1
+CA,West,Business Services,32,3000000000.0,3000,Data Analyst,123.5,90,157,3.3,0,0,0,0,1
+NY,Northeast,Information Technology,10,15000000.0,350,Data Analyst,47.0,32,62,3.9,0,0,1,0,0
+CA,West,Health Care,24,750000000.0,750,Data Scientist,64.0,42,86,3.5,0,0,0,0,0
+CA,West,Information Technology,38,7500000000.0,10000,Data Scientist,162.0,116,208,4.0,1,0,0,0,1
+NY,Northeast,Biotech & Pharmaceuticals,107,15000000000.0,10000,Data Scientist,137.0,102,172,3.9,1,0,0,0,0
+TN,Southeast,Retail,62,15000000000.0,10000,Data Engineer,98.0,69,127,3.0,1,0,0,0,0
+NY,Northeast,Insurance,157,15000000000.0,10000,Data Scientist,115.0,86,144,3.7,1,0,0,0,1
+CO,West,Biotech & Pharmaceuticals,150,1500000000.0,7500,Data Scientist,133.5,102,165,3.5,1,0,0,0,1
+CO,West,Insurance,105,750000000.0,750,Data Engineer,99.0,74,124,4.0,1,0,0,1,0
+WI,Midwest,Manufacturing,56,1500000000.0,750,Research Scientist,54.0,40,68,3.3,0,0,0,0,0
+TN,Southeast,Health Care,16,150000000.0,3000,Data Engineer,109.0,76,142,3.2,0,0,0,1,1
+MD,Northeast,Information Technology,21,37500000.0,350,Data Engineer,109.0,76,142,3.4,0,0,0,1,0
+MA,Northeast,Information Technology,36,1500000000.0,3000,Data Scientist,139.5,108,171,4.4,1,0,0,0,0
+IL,Midwest,Insurance,108,15000000000.0,10000,Data Scientist,254.0,202,306,3.3,1,0,0,0,0
+NY,Northeast,Information Technology,45,150000000.0,3000,Machine Learning Engineer,125.0,91,159,3.2,1,0,0,1,1
+MA,Northeast,Biotech & Pharmaceuticals,24,15000000000.0,10000,Data Scientist,106.5,80,133,3.8,1,0,0,0,0
+CA,West,Biotech & Pharmaceuticals,8,1500000000.0,350,Research Scientist,73.0,49,97,2.9,0,0,0,0,0
+MD,Northeast,Biotech & Pharmaceuticals,59,37500000.0,350,Research Scientist,81.0,49,113,2.7,0,0,0,0,1
+DE,Northeast,Health Care,85,150000000.0,3000,Research Scientist,27.5,42,68,3.6,0,0,0,0,0
+NC,Southeast,Manufacturing,145,15000000000.0,7500,Research Scientist,99.5,65,134,3.1,0,0,0,0,1
+OH,Midwest,Insurance,31,750000000.0,750,Data Analyst,45.5,32,59,3.3,0,0,0,0,0
+MA,Northeast,Insurance,168,7500000000.0,7500,Data Analyst,54.0,39,69,3.7,0,0,0,0,0
+IN,Midwest,Business Services,24,37500000.0,125,Data Engineer,122.5,87,158,4.5,1,0,1,1,0
+FL,Southeast,Information Technology,43,150000000.0,3000,Data Analyst,37.5,27,48,3.0,0,0,0,0,1
+NY,Northeast,Travel & Tourism,18,3000000000.0,3000,Data Analyst,53.5,36,71,3.8,1,0,0,0,1
+IL,Midwest,Finance,52,1500000000.0,7500,Data Scientist,140.0,107,173,3.9,1,0,0,0,1
+VA,Southeast,Government,62,1500000000.0,7500,Data Scientist,77.5,56,99,3.2,0,0,0,0,0
+MA,Northeast,"Construction, Repair & Maintenance",44,750000.0,25,Research Scientist,26.5,50,56,3.3,0,0,0,0,1
+NC,Southeast,Manufacturing,145,15000000000.0,7500,Research Scientist,117.5,80,155,3.1,0,0,0,0,1
+CA,West,Biotech & Pharmaceuticals,14,75000000.0,750,Research Scientist,70.5,43,98,2.4,0,0,0,0,0
+NY,Northeast,Biotech & Pharmaceuticals,5,150000000.0,3000,Research Scientist,70.0,44,96,2.9,0,0,0,0,1
+CA,West,Information Technology,9,37500000.0,125,Manager,61.5,45,78,4.8,0,0,0,0,1
+GA,Southeast,Biotech & Pharmaceuticals,5,150000000.0,3000,Research Scientist,80.0,50,110,2.9,0,0,0,0,1
+GA,Southeast,Information Technology,17,37500000.0,125,Data Scientist,79.5,60,99,4.7,1,0,0,0,1
+CA,West,Information Technology,6,150000000.0,750,Data Scientist,168.0,130,206,4.7,1,0,0,0,1
+MA,Northeast,Insurance,32,150000000.0,3000,Data Engineer,90.0,61,119,3.4,0,0,1,0,1
+MA,Northeast,Biotech & Pharmaceuticals,0,150000000.0,0,Research Scientist,120.0,100,140,0.0,0,0,0,0,1
+CA,West,Information Technology,12,150000000.0,125,Data Analyst,138.5,99,178,3.9,1,0,0,0,0
+PA,Northeast,Biotech & Pharmaceuticals,3,3000000000.0,10000,Data Scientist,111.5,86,137,3.6,0,0,0,0,0
+MA,Northeast,Insurance,169,15000000000.0,7500,Data Scientist,68.5,37,100,3.6,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,190,15000000000.0,10000,Research Scientist,84.5,58,111,3.9,0,0,0,1,0
+TN,Southeast,Information Technology,14,150000000.0,3000,Data Engineer,102.5,72,133,4.4,1,0,1,1,0
+PA,Northeast,Education,36,1500000000.0,750,Research Scientist,73.5,56,91,2.6,0,0,0,0,1
+OH,Midwest,Government,53,75000000.0,750,Research Scientist,93.5,61,126,3.6,1,0,0,0,0
+PA,Northeast,Business Services,0,7500000.0,25,Data Scientist,127.5,95,160,3.2,0,0,0,0,1
+UT,West,Non-Profit,0,15000000000.0,10000,Data Analyst,72.0,53,91,4.2,0,0,0,0,0
+MA,Northeast,Insurance,169,15000000000.0,7500,Research Scientist,129.5,101,158,3.6,1,0,1,1,1
+UT,West,Manufacturing,43,750000000.0,3000,Data Analyst,47.0,33,61,3.1,1,0,0,0,1
+AL,Southeast,Consumer Services,6,1500000000.0,750,Data Engineer,65.0,44,86,3.8,1,0,1,1,1
+WI,Midwest,Finance,150,1500000000.0,3000,Data Analyst,60.0,43,77,3.8,0,0,0,1,1
+NY,Northeast,Biotech & Pharmaceuticals,171,15000000000.0,10000,Data Scientist,167.5,125,210,4.0,0,0,0,1,1
+NY,Northeast,Travel & Tourism,18,3000000000.0,3000,Data Analyst,65.0,44,86,3.8,0,0,0,0,1
+VA,Southeast,Information Technology,8,150000000.0,750,Data Analyst,94.0,69,119,4.0,1,0,0,0,0
+NY,Northeast,Retail,10,150000000.0,350,Data Analyst,87.5,65,110,1.9,1,0,0,0,1
+VA,Southeast,Information Technology,8,150000000.0,750,Data Engineer,97.0,67,127,4.0,1,0,1,1,0
+NC,Southeast,Information Technology,30,1500000000.0,7500,Data Engineer,112.5,78,147,4.3,1,0,1,1,0
+MA,Northeast,Insurance,169,15000000000.0,7500,Research Scientist,91.5,66,117,3.6,0,0,1,1,1
+IN,Midwest,Insurance,108,15000000000.0,10000,Data Engineer,51.5,37,66,3.3,1,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,24,15000000000.0,10000,Data Scientist,114.5,86,143,3.8,0,0,0,0,0
+NY,Northeast,Business Services,9,15000000.0,350,Data Scientist,115.0,84,146,4.3,1,0,1,1,0
+PA,Northeast,Business Services,0,7500000.0,25,Manager,74.0,50,98,3.2,1,0,0,1,0
+CA,West,Business Services,48,15000000.0,125,Research Scientist,51.0,38,64,4.7,0,0,0,0,1
+AZ,Southwest,Health Care,39,1500000000.0,750,Data Engineer,100.0,90,110,3.4,0,0,0,0,0
+MA,Northeast,Biotech & Pharmaceuticals,24,15000000000.0,10000,Data Scientist,121.0,92,150,3.8,0,0,0,0,0
+CA,West,Information Technology,14,150000000.0,350,Data Scientist,121.5,90,153,4.5,0,0,0,0,0
+MA,Northeast,Finance,164,15000000000.0,10000,Data Scientist,62.5,43,82,3.1,1,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,0,1500000000.0,0,Research Scientist,117.5,100,135,0.0,0,0,0,0,1
+FL,Southeast,Information Technology,8,1500000000.0,350,Data Scientist,122.0,93,151,3.9,1,0,0,1,0
+VA,Southeast,Information Technology,16,150000000.0,125,Data Engineer,85.0,61,109,4.4,1,0,1,1,0
+AZ,Southwest,Information Technology,18,75000000.0,750,Data Engineer,60.5,42,79,3.4,1,0,1,1,0
+CA,West,Finance,11,75000000.0,125,Data Scientist,180.0,139,221,3.9,1,0,0,0,1
+MO,Midwest,Finance,18,150000000.0,3000,Research Scientist,70.5,40,101,4.7,0,0,1,0,1
+VA,Southeast,Aerospace & Defense,3,1500000000.0,3000,Data Engineer,118.5,84,153,3.3,1,0,1,0,0
+IL,Midwest,Information Technology,25,150000000.0,750,Research Scientist,66.5,52,81,3.9,1,0,0,0,0
+MA,Northeast,Business Services,77,150000000.0,3000,Data Scientist,107.5,81,134,3.4,0,0,1,0,1
+TX,Southwest,Business Services,10,15000000.0,125,Data Engineer,138.5,97,180,4.7,1,0,1,0,0
+MD,Northeast,Biotech & Pharmaceuticals,59,37500000.0,350,Research Scientist,81.0,49,113,2.7,0,0,0,0,0
+IL,Midwest,Insurance,95,3000000000.0,3000,Data Engineer,58.5,44,73,3.8,1,0,1,0,1
+IL,Midwest,Transportation & Logistics,15,3000000000.0,3000,Data Engineer,107.5,75,140,3.4,0,0,0,0,0
+MA,Northeast,Biotech & Pharmaceuticals,12,75000000.0,750,Research Scientist,120.5,84,157,3.8,0,0,0,0,0
+CA,West,Information Technology,13,15000000.0,350,Data Scientist,63.5,40,87,3.9,1,0,1,0,0
+KY,Southeast,Manufacturing,145,15000000000.0,7500,Research Scientist,103.5,68,139,3.1,0,0,0,0,0
+CA,West,Information Technology,39,1500000000.0,7500,Data Scientist,107.0,72,142,4.1,1,0,0,0,1
+VA,Southeast,Aerospace & Defense,0,3000000000.0,7500,Data Engineer,105.5,74,137,3.7,1,0,1,0,0
+CA,West,Insurance,48,750000000.0,750,Data Engineer,83.0,57,109,2.8,0,0,0,0,0
+CA,West,Information Technology,13,150000000.0,3000,Data Engineer,162.0,121,203,4.0,1,0,1,1,1
+CA,West,Information Technology,51,1500000000.0,3000,Data Scientist,68.5,52,85,3.5,1,0,1,0,1
+OH,Midwest,Insurance,42,7500000000.0,10000,Data Scientist,110.5,81,140,3.4,0,0,0,0,1
+IA,Midwest,Insurance,0,150000000.0,350,Data Engineer,115.5,83,148,3.7,1,0,0,0,1
+CA,West,Biotech & Pharmaceuticals,26,1500000000.0,750,Research Scientist,87.5,59,116,3.0,0,0,0,0,1
+WA,West,"Oil, Gas, Energy & Utilities",55,750000000.0,3000,Data Scientist,80.5,60,101,3.8,0,0,0,0,0
+IA,Midwest,Finance,28,150000000.0,750,Data Scientist,43.0,31,55,4.6,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,17,1500000000.0,350,Director,140.0,102,178,4.4,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,171,15000000000.0,10000,Director,172.0,136,208,4.0,0,0,0,1,0
+MA,Northeast,Biotech & Pharmaceuticals,0,150000000.0,0,Research Scientist,120.0,110,130,0.0,0,0,0,0,0
+PA,Northeast,Insurance,37,7500000000.0,7500,Data Analyst,66.5,48,85,3.0,0,0,0,0,1
+CA,West,Biotech & Pharmaceuticals,26,1500000000.0,750,Research Scientist,100.0,71,129,3.0,0,0,0,0,1
+CA,West,Business Services,14,1500000.0,125,Data Engineer,94.5,66,123,4.7,1,0,0,1,0
+CA,West,Health Care,9,1500000000.0,750,Data Scientist,221.5,171,272,4.2,1,0,0,0,1
+WA,West,"Oil, Gas, Energy & Utilities",55,750000000.0,3000,Data Scientist,119.0,92,146,3.8,0,0,0,0,0
+IL,Midwest,Business Services,25,75000000.0,350,Data Engineer,95.5,65,126,3.5,1,0,0,0,0
+IL,Midwest,Insurance,108,15000000000.0,10000,Data Scientist,194.5,150,239,3.3,1,0,0,0,0
+NE,Midwest,Health Care,24,15000000000.0,10000,Research Scientist,25.0,42,58,3.2,0,0,0,0,0
+TN,Southeast,Finance,20,3000000000.0,7500,Data Analyst,13.5,20,34,2.7,0,0,0,0,1
+NJ,Northeast,Finance,47,1500000000.0,3000,Data Analyst,173.0,118,228,3.3,1,0,0,0,1
+TX,Southwest,Education,0,1500000000.0,750,Data Scientist,105.5,82,129,3.7,1,0,0,1,0
+TX,Southwest,Business Services,73,750000000.0,3000,Research Scientist,71.5,52,91,3.9,1,0,0,1,1
+NC,Southeast,Manufacturing,145,15000000000.0,7500,Research Scientist,74.0,47,101,3.1,0,0,0,0,1
+AL,Southeast,Aerospace & Defense,98,15000000000.0,10000,Data Engineer,62.5,49,76,3.7,0,0,0,0,1
+NC,Southeast,Business Services,62,750000000.0,3000,Research Scientist,65.5,43,88,4.3,0,0,0,0,0
+PA,Northeast,Retail,72,7500000000.0,10000,Data Scientist,85.0,61,109,3.8,1,0,0,0,0
+MD,Northeast,Biotech & Pharmaceuticals,107,15000000000.0,10000,Data Scientist,147.5,113,182,3.9,1,0,0,0,1
+NJ,Northeast,Business Services,31,150000000.0,3000,Data Scientist,161.5,124,199,3.6,1,0,0,1,1
+VA,Southeast,Health Care,121,1500000000.0,10000,Data Engineer,81.0,58,104,3.7,0,0,0,0,1
+PA,Northeast,Biotech & Pharmaceuticals,17,150000000.0,3000,Data Analyst,72.5,52,93,2.1,0,0,0,0,1
+CA,West,Information Technology,12,15000000.0,125,Data Engineer,139.0,97,181,3.9,1,0,0,1,1
+CA,West,Information Technology,13,15000000.0,350,Data Engineer,136.5,100,173,3.9,0,0,0,0,0
+NY,Northeast,Information Technology,12,1500000000.0,350,Data Analyst,83.0,58,108,3.2,1,0,1,0,1
+MA,Northeast,Business Services,29,7500000.0,125,Research Scientist,121.0,81,161,4.6,0,0,0,1,1
+NY,Northeast,Travel & Tourism,18,3000000000.0,3000,Data Scientist,74.5,53,96,3.8,1,0,1,0,0
+CA,West,Retail,18,1500000000.0,750,Data Analyst,85.5,61,110,2.2,0,0,0,0,1
+NC,Southeast,Manufacturing,145,15000000000.0,7500,Research Scientist,80.5,65,96,3.1,0,0,0,0,1
+MA,Northeast,Business Services,29,7500000.0,125,Research Scientist,167.5,115,220,4.6,0,0,0,0,0
+PA,Northeast,Education,36,1500000000.0,750,Machine Learning Engineer,107.5,71,144,2.6,1,0,0,0,0
+WA,West,Non-Profit,41,37500000.0,750,Data Analyst,44.5,32,57,3.4,0,0,0,1,1
+MD,Northeast,Health Care,131,750000000.0,3000,Data Analyst,107.5,79,136,3.3,0,0,0,0,0
+MA,Northeast,Biotech & Pharmaceuticals,0,150000000.0,0,Research Scientist,132.5,120,145,0.0,0,0,0,0,0
+PA,Northeast,Health Care,26,750000000.0,350,Data Analyst,69.5,50,89,3.7,0,0,0,0,1
+CA,West,Information Technology,50,15000000000.0,10000,Data Engineer,98.5,68,129,3.5,1,0,1,1,0
+MD,Northeast,Biotech & Pharmaceuticals,59,37500000.0,350,Research Scientist,80.5,48,113,2.7,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,12,15000000.0,125,Research Scientist,37.0,54,94,3.8,0,0,0,0,1
+MD,Northeast,Aerospace & Defense,98,15000000000.0,10000,Research Scientist,99.0,74,124,3.7,1,0,0,0,0
+MA,Northeast,Biotech & Pharmaceuticals,12,75000000.0,750,Manager,96.5,68,125,3.8,0,0,0,0,1
+MA,Northeast,Insurance,108,15000000000.0,10000,Data Scientist,53.0,39,67,3.3,0,0,0,0,0
+CA,West,Information Technology,9,750000.0,25,Data Engineer,103.0,71,135,2.7,0,0,1,1,0
+CA,West,Finance,14,75000000.0,750,Data Scientist,139.5,107,172,3.8,0,0,0,0,0
+WA,West,"Oil, Gas, Energy & Utilities",55,750000000.0,3000,Data Scientist,67.0,49,85,3.8,0,0,0,0,0
+CT,Northeast,Information Technology,39,15000000000.0,10000,Research Scientist,62.5,54,71,3.0,0,0,0,0,1
+MD,Northeast,Biotech & Pharmaceuticals,107,15000000000.0,10000,Research Scientist,92.0,61,123,3.9,0,0,0,0,0
+NY,Northeast,Health Care,40,15000000.0,25,Data Analyst,66.0,47,85,3.6,0,0,0,0,1
+CA,West,Health Care,7,1500000000.0,750,Data Engineer,94.5,65,124,3.5,1,0,1,1,1
+NJ,Northeast,Business Services,31,150000000.0,3000,Data Scientist,114.0,87,141,3.6,1,0,0,1,1
+NY,Northeast,Education,8,150000000.0,125,Data Scientist,75.5,56,95,4.2,1,0,0,1,0
+MO,Midwest,Education,0,7500000.0,25,Data Scientist,96.0,71,121,3.5,0,0,0,0,1
+VA,Southeast,Aerospace & Defense,66,150000000.0,750,Machine Learning Engineer,87.0,62,112,4.0,1,0,0,0,0
+MD,Northeast,Information Technology,14,37500000.0,350,Data Scientist,86.0,64,108,3.7,1,0,0,0,1
+CA,West,Information Technology,8,750000.0,25,Data Scientist,116.5,89,144,4.4,1,0,0,0,0
+MA,Northeast,Biotech & Pharmaceuticals,10,1500000000.0,3000,Research Scientist,154.5,109,200,3.5,1,0,0,0,1
+CA,West,"Arts, Entertainment & Recreation",34,150000000.0,3000,Data Analyst,48.5,35,62,3.6,0,0,0,0,1
+KS,Midwest,Finance,47,750000000.0,750,Machine Learning Engineer,87.0,61,113,3.7,1,0,0,0,1
+TX,Southwest,Information Technology,18,1500000000.0,750,Data Engineer,80.0,55,105,3.4,1,0,1,0,1
+TX,Southwest,Health Care,43,75000000.0,3000,Research Scientist,21.5,36,50,4.0,0,0,0,1,0
+CA,West,Aerospace & Defense,81,15000000000.0,10000,Data Scientist,173.0,135,211,3.7,1,0,0,0,0
+IL,Midwest,Manufacturing,0,150000000.0,750,Research Scientist,52.5,39,66,2.4,0,0,0,0,0
+AZ,Southwest,Biotech & Pharmaceuticals,23,1500000000.0,750,Data Engineer,68.5,57,80,3.5,1,0,1,0,0
+MD,Northeast,Biotech & Pharmaceuticals,107,15000000000.0,10000,Research Scientist,95.0,63,127,3.9,0,0,0,0,0
+MA,Northeast,Government,62,1500000000.0,7500,Data Scientist,69.5,50,89,3.2,1,0,0,0,1
+OH,Midwest,Mining & Metals,135,1500000000.0,350,Data Scientist,107.0,82,132,4.4,1,0,0,1,0
+VA,Southeast,Information Technology,10,150000000.0,750,Data Scientist,112.0,85,139,3.9,1,0,1,0,0
+DC,Northeast,Business Services,23,15000000.0,125,Data Scientist,96.5,72,121,3.4,1,0,0,0,0
+CA,West,Biotech & Pharmaceuticals,0,37500000.0,350,Research Scientist,111.5,74,149,2.1,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,239,15000000000.0,10000,Data Engineer,154.5,113,196,3.7,0,0,1,1,1
+NY,Northeast,Health Care,9,1500000000.0,350,Data Scientist,95.0,69,121,3.4,1,0,1,1,0
+NY,Northeast,Consumer Services,13,1500000000.0,750,Data Scientist,97.5,71,124,4.0,1,0,0,0,1
+IL,Midwest,Business Services,12,75000000.0,350,Data Scientist,128.5,97,160,4.4,1,0,0,1,1
+PA,Northeast,Education,36,1500000000.0,750,Machine Learning Engineer,124.0,81,167,2.6,0,0,0,0,0
+CA,West,Information Technology,14,1500000000.0,750,Data Scientist,194.0,150,238,3.2,0,0,0,1,1
+CO,West,Health Care,54,150000000.0,750,Research Scientist,31.5,48,78,3.7,0,0,0,0,0
+UT,West,Non-Profit,0,15000000000.0,10000,Data Analyst,50.0,35,65,4.2,0,0,0,1,1
+NY,Northeast,Business Services,15,1500000000.0,350,Data Scientist,104.5,77,132,3.5,1,0,1,1,1
+AZ,Southwest,Information Technology,51,75000000.0,350,Data Scientist,69.5,51,88,4.3,1,0,0,0,1
+CA,West,Education,23,15000000000.0,10000,Data Scientist,121.0,101,141,2.6,1,0,0,0,0
+NC,Southeast,Information Technology,12,1500000000.0,350,Data Engineer,85.5,59,112,4.2,1,0,0,0,1
+CA,West,Media,23,15000000000.0,3000,Data Engineer,113.0,79,147,3.1,1,0,1,1,1
+CA,West,Manufacturing,15,37500000.0,350,Data Scientist,103.0,79,127,3.8,1,0,0,1,0
+MA,Northeast,Biotech & Pharmaceuticals,190,15000000000.0,10000,Research Scientist,90.5,62,119,3.9,0,0,0,1,0
+CA,West,Information Technology,12,150000000.0,125,Data Scientist,153.0,119,187,4.3,1,0,1,0,1
+VA,Southeast,Government,62,1500000000.0,7500,Data Scientist,106.5,81,132,3.2,1,0,1,0,1
+MI,Midwest,Information Technology,9,150000000.0,125,Data Scientist,130.0,120,140,5.0,0,0,0,0,1
+CA,West,Business Services,32,3000000000.0,3000,Data Analyst,123.5,90,157,3.3,0,0,0,0,1
+NY,Northeast,Information Technology,21,750000000.0,3000,Research Scientist,86.5,63,110,4.3,0,0,0,1,1
+CA,West,Health Care,24,750000000.0,750,Data Scientist,64.0,42,86,3.5,0,0,0,0,0
+NY,Northeast,Information Technology,10,15000000.0,350,Data Analyst,47.0,32,62,3.9,0,0,1,0,0
+CA,West,Information Technology,38,7500000000.0,10000,Data Scientist,162.0,116,208,4.0,1,0,0,0,1
+MD,Northeast,Biotech & Pharmaceuticals,107,15000000000.0,10000,Data Scientist,140.0,107,173,3.9,1,0,0,0,1
+WA,West,Information Technology,0,7500000.0,125,Data Scientist,89.0,65,113,3.4,0,0,0,0,0
+TN,Southeast,Retail,62,15000000000.0,10000,Data Engineer,98.0,69,127,3.0,1,0,0,0,0
+NY,Northeast,Biotech & Pharmaceuticals,107,15000000000.0,10000,Data Scientist,137.0,102,172,3.9,1,0,0,0,0
+CO,West,Insurance,105,750000000.0,750,Data Engineer,99.0,74,124,4.0,1,0,0,1,0
+WI,Midwest,Manufacturing,56,1500000000.0,750,Research Scientist,54.0,40,68,3.3,0,0,0,0,0
+TN,Southeast,Health Care,16,150000000.0,3000,Data Engineer,109.0,76,142,3.2,0,0,0,1,1
+MD,Northeast,Information Technology,21,37500000.0,350,Data Engineer,109.0,76,142,3.4,0,0,0,1,0
+MA,Northeast,Information Technology,36,1500000000.0,3000,Data Scientist,139.5,108,171,4.4,1,0,0,0,0
+IL,Midwest,Insurance,108,15000000000.0,10000,Data Scientist,254.0,202,306,3.3,1,0,0,0,0
+NY,Northeast,Information Technology,45,150000000.0,3000,Machine Learning Engineer,125.0,91,159,3.2,1,0,0,1,1
+MA,Northeast,Biotech & Pharmaceuticals,24,15000000000.0,10000,Data Scientist,106.5,80,133,3.8,1,0,0,0,0
+DE,Northeast,Health Care,85,150000000.0,3000,Research Scientist,27.5,42,68,3.6,0,0,0,0,0
+CA,West,Biotech & Pharmaceuticals,8,1500000000.0,350,Research Scientist,73.0,49,97,2.9,0,0,0,0,0
+MD,Northeast,Biotech & Pharmaceuticals,59,37500000.0,350,Research Scientist,81.0,49,113,2.7,0,0,0,0,1
+PA,Northeast,Business Services,0,7500000.0,25,Data Scientist,128.5,96,161,3.2,1,0,1,1,0
+NC,Southeast,Manufacturing,145,15000000000.0,7500,Research Scientist,99.5,65,134,3.1,0,0,0,0,1
+CA,West,Biotech & Pharmaceuticals,14,1500000000.0,750,Research Scientist,92.0,59,125,4.0,0,0,0,1,1
+OH,Midwest,Insurance,31,750000000.0,750,Data Analyst,45.5,32,59,3.3,0,0,0,0,0
+IN,Midwest,Business Services,24,37500000.0,125,Data Engineer,122.5,87,158,4.5,1,0,1,1,0
+FL,Southeast,Information Technology,43,150000000.0,3000,Data Analyst,37.5,27,48,3.0,0,0,0,0,1
+MA,Northeast,Insurance,168,7500000000.0,7500,Data Analyst,54.0,39,69,3.7,0,0,0,0,0
+NY,Northeast,Travel & Tourism,18,3000000000.0,3000,Data Analyst,53.5,36,71,3.8,1,0,0,0,1
+IL,Midwest,Finance,52,1500000000.0,7500,Data Scientist,140.0,107,173,3.9,1,0,0,0,1
+VA,Southeast,Government,62,1500000000.0,7500,Data Scientist,77.5,56,99,3.2,0,0,0,0,0
+MA,Northeast,"Construction, Repair & Maintenance",44,750000.0,25,Research Scientist,26.5,50,56,3.3,0,0,0,0,1
+NC,Southeast,Manufacturing,145,15000000000.0,7500,Research Scientist,117.5,80,155,3.1,0,0,0,0,1
+CA,West,Biotech & Pharmaceuticals,14,75000000.0,750,Research Scientist,70.5,43,98,2.4,0,0,0,0,0
+CA,West,Information Technology,9,37500000.0,125,Manager,61.5,45,78,4.8,0,0,0,0,1
+GA,Southeast,Biotech & Pharmaceuticals,5,150000000.0,3000,Research Scientist,80.0,50,110,2.9,0,0,0,0,1
+NY,Northeast,Biotech & Pharmaceuticals,5,150000000.0,3000,Research Scientist,70.0,44,96,2.9,0,0,0,0,1
+MA,Northeast,Biotech & Pharmaceuticals,0,150000000.0,0,Research Scientist,120.0,100,140,0.0,0,0,0,0,1
+MA,Northeast,Insurance,32,150000000.0,3000,Data Engineer,90.0,61,119,3.4,0,0,1,0,1
+CA,West,Education,13,750000.0,25,Machine Learning Engineer,111.0,80,142,4.1,1,0,0,1,1
+CA,West,Information Technology,12,150000000.0,125,Data Analyst,138.5,99,178,3.9,1,0,0,0,0
+MA,Northeast,Insurance,169,15000000000.0,7500,Data Scientist,68.5,37,100,3.6,0,0,0,0,1
+CA,West,Information Technology,9,150000000.0,350,Data Engineer,87.5,62,113,3.9,1,0,0,1,1
+PA,Northeast,Biotech & Pharmaceuticals,3,3000000000.0,10000,Data Scientist,111.5,86,137,3.6,0,0,0,0,0
+MA,Northeast,Biotech & Pharmaceuticals,190,15000000000.0,10000,Research Scientist,84.5,58,111,3.9,0,0,0,1,0
+TN,Southeast,Information Technology,14,150000000.0,3000,Data Engineer,102.5,72,133,4.4,1,0,1,1,0
+PA,Northeast,Education,36,1500000000.0,750,Research Scientist,73.5,56,91,2.6,0,0,0,0,1
+PA,Northeast,Business Services,0,7500000.0,25,Data Scientist,127.5,95,160,3.2,0,0,0,0,1
+OH,Midwest,Government,53,75000000.0,750,Research Scientist,93.5,61,126,3.6,1,0,0,0,0
